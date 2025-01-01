@@ -1,4 +1,4 @@
-# Cybersecurity-Home-Lab:-Malware-Analysis
+# Cybersecurity Home Lab: Malware Analysis
 
 This repository documents the setup and execution of a cybersecurity home lab designed to simulate and analyze malware activity in a controlled environment. The lab utilizes VirtualBox, Splunk, Sysmon, and msfvenom to demonstrate malware creation, detection, and analysis.
 
